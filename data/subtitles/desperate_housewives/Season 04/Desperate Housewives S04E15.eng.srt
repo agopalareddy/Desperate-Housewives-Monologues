@@ -1,0 +1,3222 @@
+1
+00:00:01,200 --> 00:00:03,420
+<i>previously on...</i>
+
+2
+00:00:03,570 --> 00:00:04,720
+<i>Gaby's new tenant...</i>
+
+3
+00:00:04,870 --> 00:00:07,190
+i understand you got a room to rent. we like you.
+
+4
+00:00:07,340 --> 00:00:08,760
+if you have first and last months' rent,
+
+5
+00:00:08,910 --> 00:00:12,860
+<i>we'd like you even more. ... came with a dangerous secret.</i>
+
+6
+00:00:13,000 --> 00:00:17,030
+<i>i'm your father. wayne's return meant trouble for Katherine.</i>
+
+7
+00:00:17,170 --> 00:00:19,840
+she doesn't know you, but i do.
+
+8
+00:00:20,270 --> 00:00:22,910
+did you have anything to do with the fire at rick's restaurant?
+
+9
+00:00:23,060 --> 00:00:25,350
+<i>Lynette tried to warn tom about kayla...</i>
+
+10
+00:00:25,500 --> 00:00:29,020
+i think we have a seriously troubled young girl.
+
+11
+00:00:29,160 --> 00:00:31,320
+<i>and in his time of weakness,</i>
+
+12
+00:00:31,470 --> 00:00:36,400
+<i>Orson chose the wrong shoulder to cry on.</i>
+
+13
+00:00:36,800 --> 00:00:38,410
+i don't... think...
+
+14
+00:00:38,560 --> 00:00:39,590
+you're right.
+
+15
+00:00:47,810 --> 00:00:51,150
+<i>the incident- as it would come to be known-</i>
+
+16
+00:00:51,290 --> 00:00:54,480
+<i>happened late on a tuesday afternoon.</i>
+
+17
+00:00:56,250 --> 00:00:59,180
+<i>witnesses included an old woman...</i>
+
+18
+00:01:00,850 --> 00:01:02,630
+<i>a blind man...</i>
+
+19
+00:01:04,030 --> 00:01:06,400
+<i>and a young boy.</i>
+
+20
+00:01:07,590 --> 00:01:11,450
+<i>the old woman,whose hearing was not what it used to be,</i>
+
+21
+00:01:11,610 --> 00:01:13,630
+<i>saw Bree hodge emerge from her house</i>
+
+22
+00:01:13,770 --> 00:01:15,010
+<i>in a way that told her</i>
+
+23
+00:01:15,160 --> 00:01:18,050
+<i>she was upset about something.</i>
+
+24
+00:01:19,080 --> 00:01:22,120
+<i>the blind man,whose hearing had become more acute,</i>
+
+25
+00:01:22,260 --> 00:01:26,750
+<i>heard Edie say... oh,hey,Bree. what's up?</i>
+
+26
+00:01:26,910 --> 00:01:28,130
+<i>...in a way that suggested</i>
+
+27
+00:01:28,280 --> 00:01:31,250
+<i>Edie wasn't expecting any trouble.</i>
+
+28
+00:01:31,700 --> 00:01:34,350
+<i>the young boy, who was not yet 11,</i>
+
+29
+00:01:34,500 --> 00:01:36,140
+<i>heard Bree hodge say...</i>
+
+30
+00:01:36,280 --> 00:01:38,780
+i saw you kissing my husband.
+
+31
+00:01:38,930 --> 00:01:40,090
+<i>but he couldn't understand</i>
+
+32
+00:01:40,240 --> 00:01:43,160
+<i>why someone would be angry about kisses,</i>
+
+33
+00:01:43,310 --> 00:01:46,040
+<i>which he thought grown-ups liked.</i>
+
+34
+00:01:46,650 --> 00:01:48,040
+<i>as the old woman pretended</i>
+
+35
+00:01:48,200 --> 00:01:50,220
+<i>to clip hedges she'd already clipped,</i>
+
+36
+00:01:50,380 --> 00:01:54,340
+<i>she saw the body language of her neighbors change.</i>
+
+37
+00:01:55,640 --> 00:01:58,190
+<i>as the blind man listened in,</i>
+
+38
+00:01:58,340 --> 00:01:59,850
+<i>he heard Bree say...</i>
+
+39
+00:02:00,000 --> 00:02:02,220
+what were you thinking,Edie? we're supposed to be friends.
+
+40
+00:02:02,380 --> 00:02:05,780
+<i>we are friends. i am not interested in Orson.</i>
+
+41
+00:02:05,920 --> 00:02:08,370
+<i>the young boy then heard Edie add...</i>
+
+42
+00:02:08,510 --> 00:02:11,110
+so stop acting like such a bitch!
+
+43
+00:02:11,270 --> 00:02:15,640
+<i>...which included a word he was not allowed to use.</i>
+
+44
+00:02:16,050 --> 00:02:21,000
+<i>the old woman then saw Bree hodge clench her fist.</i>
+
+45
+00:02:21,160 --> 00:02:24,400
+<i>a second later, the blind man heard a slap...</i>
+
+46
+00:02:25,100 --> 00:02:28,790
+<i>and the young boy saw Edie grab her cheek.</i>
+
+47
+00:02:30,510 --> 00:02:32,970
+<i>as the two women parted company,</i>
+
+48
+00:02:33,130 --> 00:02:34,140
+<i>a thought occurred</i>
+
+49
+00:02:34,290 --> 00:02:37,720
+<i>to all those who had witnessed the incident...</i>
+
+50
+00:02:37,880 --> 00:02:41,670
+<i>that right there on peaceful wisteria lane,</i>
+
+51
+00:02:42,230 --> 00:02:45,120
+<i>the battle lines had been drawn,</i>
+
+52
+00:02:45,280 --> 00:02:46,940
+<i>and someone...</i>
+
+53
+00:02:47,100 --> 00:02:48,950
+<i>was going to get hurt.</i>
+
+54
+00:02:49,080 --> 00:02:50,560
+<font color="#4096d1">±¾×öä»½ö¹©ñ§ï°½»á÷£¬ñï½ûóãóúéìòµóãí¾</font>
+
+55
+00:02:50,720 --> 00:02:54,740
+<font color=#4096d1>-=ææàãðü×öä»×é=-
+­òë:
+ð£♪ô:
+ê±¼äöá£ºêø»¤ììê¹</font>
+
+56
+00:02:54,890 --> 00:02:56,910
+<font color="#4096d1">-==http://www.ragbear.com==-
+¡♪¾øíûö÷¸¾¡ µúëä¼¾µú15¼¯
+
+57
+00:03:00,190 --> 00:03:03,870
+It happened on every second Sunday of May...
+
+58
+00:03:04,530 --> 00:03:07,490
+<i>children purchase tasteful bouquets...</i>
+
+59
+00:03:08,390 --> 00:03:11,000
+<i>sign sentimental cards...</i>
+
+60
+00:03:11,790 --> 00:03:14,530
+<i>and create homemade jewelry...</i>
+
+61
+00:03:14,690 --> 00:03:17,350
+<i>all in an attempt to honor</i>
+
+62
+00:03:17,510 --> 00:03:19,810
+<i>that woman known simply...</i>
+
+63
+00:03:19,970 --> 00:03:21,530
+<i>as mother.</i>
+
+64
+00:03:21,810 --> 00:03:22,260
+oh!
+
+65
+00:03:22,420 --> 00:03:25,070
+hey,mama. hey,baby.
+
+66
+00:03:25,410 --> 00:03:28,080
+oh,my gosh!
+
+67
+00:03:28,240 --> 00:03:30,570
+is this my daughter-in-law?
+
+68
+00:03:31,000 --> 00:03:35,000
+well,i'm gonna hug her. oh! it's nice to meet you.
+
+69
+00:03:35,170 --> 00:03:35,620
+oh,my goodness! oh!
+
+70
+00:03:35,780 --> 00:03:38,130
+oh,okay.
+
+71
+00:03:39,210 --> 00:03:40,760
+oh,my son was right.
+
+72
+00:03:40,910 --> 00:03:43,790
+you are the prettiest thing!
+
+73
+00:03:43,960 --> 00:03:45,830
+michael, i'm just taken with her.
+
+74
+00:03:45,980 --> 00:03:49,720
+oh,well,good. thank you. come on,mama. let's get you unpacked.
+
+75
+00:03:49,870 --> 00:03:53,460
+oh,yes,let's do,'cause i brought you a present. oh! oh!
+
+76
+00:03:53,620 --> 00:03:55,650
+let's go. come on.
+
+77
+00:04:00,040 --> 00:04:02,330
+wow!
+
+78
+00:04:03,070 --> 00:04:05,160
+it's all recipes.
+
+79
+00:04:05,320 --> 00:04:06,460
+not just any recipes.
+
+80
+00:04:06,620 --> 00:04:08,280
+some of these have been in my family
+
+81
+00:04:08,450 --> 00:04:12,700
+since before the war of northern aggression.
+
+82
+00:04:12,860 --> 00:04:15,210
+you mean the civil war?
+
+83
+00:04:15,360 --> 00:04:17,760
+i mean what i mean.
+
+84
+00:04:19,490 --> 00:04:20,950
+um,well...
+
+85
+00:04:21,730 --> 00:04:22,780
+i guess Mike didn't tell you
+
+86
+00:04:23,000 --> 00:04:25,590
+that i'm,uh, really not a cook.
+
+87
+00:04:25,750 --> 00:04:27,700
+oh,no,he told me.
+
+88
+00:04:27,860 --> 00:04:30,080
+that's why i gave you these recipes,
+
+89
+00:04:30,240 --> 00:04:33,410
+and i'm gon' teach you how to make 'em,too.
+
+90
+00:04:33,910 --> 00:04:35,980
+isn't that nice,honey?
+
+91
+00:04:36,150 --> 00:04:37,570
+oh, my meemaw always told me
+
+92
+00:04:37,730 --> 00:04:40,550
+that a lady should be a chef in the kitchen,
+
+93
+00:04:40,720 --> 00:04:43,410
+a maid in the living room and a whore in the bedroom.
+
+94
+00:04:44,370 --> 00:04:47,920
+and michael says you've only got one of those covered,
+
+95
+00:04:48,080 --> 00:04:50,910
+so i'm gon' help you with the other two.
+
+96
+00:04:52,410 --> 00:04:54,490
+excuse me.
+
+97
+00:04:58,180 --> 00:05:00,220
+the one she won't be helping me with-
+
+98
+00:05:00,390 --> 00:05:02,600
+please tell me it's "whore."
+
+99
+00:05:06,640 --> 00:05:08,480
+i call the computer. no way! i called it on the bus.
+
+100
+00:05:08,630 --> 00:05:11,280
+whoa! whoa,whoa,whoa! guys, wait a minute. wait a minute.
+
+101
+00:05:11,450 --> 00:05:13,170
+there's somebody i want you to meet.
+
+102
+00:05:13,330 --> 00:05:15,600
+this is dr. dolan. hey,guys. i'm joshua.
+
+103
+00:05:15,760 --> 00:05:17,500
+he's gonna hang out and watch us,
+
+104
+00:05:17,670 --> 00:05:20,250
+you know,be a family.
+
+105
+00:05:20,430 --> 00:05:21,100
+why?
+
+106
+00:05:21,270 --> 00:05:23,520
+because we've had a couple of...
+
+107
+00:05:23,680 --> 00:05:24,840
+problems lately.
+
+108
+00:05:25,000 --> 00:05:28,530
+and my job is to find out what's causing those problems,
+
+109
+00:05:28,690 --> 00:05:31,950
+and then i can help you be a stronger family. can we be a stronger family
+
+110
+00:05:32,110 --> 00:05:34,530
+while playing "age of empires iii"?
+
+111
+00:05:34,700 --> 00:05:36,690
+yeah,sure. i wanna learn how to play that game.
+
+112
+00:05:36,850 --> 00:05:39,460
+go get started. i'll join you in a minute.
+
+113
+00:05:42,180 --> 00:05:44,120
+so i like what you said
+
+114
+00:05:44,280 --> 00:05:46,130
+about making the family stronger,
+
+115
+00:05:46,270 --> 00:05:49,390
+but as i told you,kayla's the one you wanna focus on.
+
+116
+00:05:49,560 --> 00:05:51,870
+well,i prefer to look at the big picture.
+
+117
+00:05:52,020 --> 00:05:54,150
+you see,if a family is dysfunctional,
+
+118
+00:05:54,320 --> 00:05:56,740
+it can lead to a child with problems.
+
+119
+00:05:56,900 --> 00:05:58,970
+<i>yeah, or a child with problems</i>
+
+120
+00:05:59,140 --> 00:06:00,940
+can lead to a dysfunctional family.
+
+121
+00:06:01,110 --> 00:06:03,830
+i mean,kayla's the one that got my kids to light a fire
+
+122
+00:06:04,000 --> 00:06:06,070
+and jump off the roof. honey,it-it sounds like
+
+123
+00:06:06,230 --> 00:06:08,490
+dr. dolan has,um, kind of a plan here.
+
+124
+00:06:08,650 --> 00:06:10,870
+i understand. it just seems like...
+
+125
+00:06:12,060 --> 00:06:14,990
+at $140 an hour,we could skip straight to the part
+
+126
+00:06:15,160 --> 00:06:16,900
+where you sit down with kayla
+
+127
+00:06:17,070 --> 00:06:20,300
+and tell her to stop being so evil.
+
+128
+00:06:20,930 --> 00:06:22,220
+mommy?
+
+129
+00:06:22,390 --> 00:06:24,750
+yeah? um... i forgot to give you something.
+
+130
+00:06:24,910 --> 00:06:26,720
+oh. it's a drawing i made for you in school.
+
+131
+00:06:26,890 --> 00:06:30,470
+oh,well,thank you. it's beautiful. thank you.
+
+132
+00:06:31,530 --> 00:06:34,650
+she never does this.
+
+133
+00:06:38,280 --> 00:06:39,610
+mmm. don't. we're waiting for ellie.
+
+134
+00:06:39,770 --> 00:06:42,200
+she's finishing up with a customer.
+
+135
+00:06:42,350 --> 00:06:43,930
+well,maybe when she's done tattooing him,
+
+136
+00:06:44,080 --> 00:06:46,870
+she can put "stop hitting the blind guy" on my forehead.
+
+137
+00:06:47,030 --> 00:06:49,560
+you know,i've been hitting you a lot less lately,
+
+138
+00:06:49,720 --> 00:06:50,550
+and i don't feel
+
+139
+00:06:50,710 --> 00:06:52,510
+like i'm getting enough credit for that.
+
+140
+00:06:52,660 --> 00:06:55,370
+<i>you're right. i'm a bad husband.</i>
+
+141
+00:06:55,530 --> 00:06:56,960
+no,seriously.
+
+142
+00:06:57,130 --> 00:06:59,370
+we're getting along better. have you noticed that?
+
+143
+00:06:59,540 --> 00:07:01,500
+yeah,i think it's because of ellie.
+
+144
+00:07:01,670 --> 00:07:05,020
+me,too. it's impossible to argue with her in the house.
+
+145
+00:07:05,170 --> 00:07:06,130
+she makes us laugh.
+
+146
+00:07:06,300 --> 00:07:09,850
+she takes you off my hands every once in a while. plus,she's always helping around the house.
+
+147
+00:07:10,030 --> 00:07:12,040
+i mean,yesterday, without even being asked,
+
+148
+00:07:12,200 --> 00:07:14,130
+she washed all the windows.
+
+149
+00:07:14,280 --> 00:07:17,750
+she's amazing. i don't know where she gets all her energy.
+
+150
+00:07:19,140 --> 00:07:21,010
+okay,so we're square.
+
+151
+00:07:21,320 --> 00:07:22,420
+dude,you gotta call me next week.
+
+152
+00:07:22,580 --> 00:07:25,610
+i got some great stuff coming in. all right.
+
+153
+00:07:25,780 --> 00:07:29,020
+ellie,it's getting cold! i'll be right down!
+
+154
+00:07:29,170 --> 00:07:30,610
+so should i sneak out the back?
+
+155
+00:07:30,750 --> 00:07:32,470
+oh,no. that's my landlady. she's cool.
+
+156
+00:07:32,620 --> 00:07:34,070
+she knows you're dealing?
+
+157
+00:07:34,230 --> 00:07:36,570
+<i>well,she's not that cool.</i>
+
+158
+00:07:38,710 --> 00:07:41,020
+oh,hey,guys!
+
+159
+00:07:41,190 --> 00:07:44,840
+you were up there a while. can i see it?
+
+160
+00:07:45,090 --> 00:07:49,120
+um,she- she means the tattoo.
+
+161
+00:07:49,680 --> 00:07:52,200
+i would love for you to see it...
+
+162
+00:07:52,360 --> 00:07:54,640
+but it's kind of down south.
+
+163
+00:07:56,680 --> 00:08:00,300
+oh,on his... got it.
+
+164
+00:08:00,810 --> 00:08:02,780
+does it hurt?
+
+165
+00:08:02,940 --> 00:08:04,560
+it's okay.
+
+166
+00:08:04,730 --> 00:08:07,400
+ellie gave me something for the pain.
+
+167
+00:08:10,630 --> 00:08:13,760
+and fairview has a top-rated school district,
+
+168
+00:08:13,910 --> 00:08:15,320
+which,uh...
+
+169
+00:08:15,650 --> 00:08:18,300
+you'll appreciate in a couple of years.
+
+170
+00:08:18,630 --> 00:08:21,370
+well,come on in. i'll show you the inside. you go ahead,honey.
+
+171
+00:08:21,520 --> 00:08:23,730
+i'll wait until mark wakes up from his nap. all right,we'll see you in a minute.
+
+172
+00:08:23,890 --> 00:08:25,740
+okay. all right...
+
+173
+00:08:32,160 --> 00:08:33,730
+hi! oh,hi!
+
+174
+00:08:33,880 --> 00:08:37,410
+i'm Bree hodge. lauren baxter. nice to meet you.
+
+175
+00:08:37,570 --> 00:08:39,590
+so are you thinking of moving onto the lane?
+
+176
+00:08:39,760 --> 00:08:44,820
+yes. this house is exactly what we've been looking for.
+
+177
+00:08:44,980 --> 00:08:47,600
+do you mind if i ask- is it a safe neighborhood?
+
+178
+00:08:47,770 --> 00:08:49,970
+oh,yes, the neighborhood's safe.
+
+179
+00:08:50,130 --> 00:08:53,610
+i wish i could say the same for your real estate agent.
+
+180
+00:08:54,020 --> 00:08:56,090
+well,what do you mean?
+
+181
+00:08:58,470 --> 00:09:01,310
+what is this? you left it in the printer.
+
+182
+00:09:01,460 --> 00:09:02,300
+it's a house listing.
+
+183
+00:09:02,450 --> 00:09:04,430
+yeah, for a house in baltimore.
+
+184
+00:09:04,590 --> 00:09:08,790
+yeah,wait till you see it. it's got a pool and a garden. this is about dad,isn't it?
+
+185
+00:09:09,570 --> 00:09:11,720
+i'm doing this to protect us.
+
+186
+00:09:11,880 --> 00:09:15,310
+<i>we don't need to be protected. he's changed.</i>
+
+187
+00:09:15,460 --> 00:09:16,590
+it's all an act, sweetheart.
+
+188
+00:09:16,750 --> 00:09:19,650
+you don't see it now, but you will.
+
+189
+00:09:20,610 --> 00:09:23,480
+he's only back because he wants something.
+
+190
+00:09:23,820 --> 00:09:27,280
+i don't know what exactly. i just know we're not safe here.
+
+191
+00:09:27,440 --> 00:09:30,690
+oh,sure. that's it. dad has some evil plan.
+
+192
+00:09:30,830 --> 00:09:33,080
+it couldn't be that he wants to be in my life,
+
+193
+00:09:33,230 --> 00:09:36,520
+that he loves me. he isn't capable of love,dylan.
+
+194
+00:09:37,910 --> 00:09:40,310
+i found that out the hard way,
+
+195
+00:09:40,700 --> 00:09:42,380
+and we need to leave
+
+196
+00:09:42,540 --> 00:09:44,800
+before you learn the same horrible lesson.
+
+197
+00:09:51,480 --> 00:09:53,580
+move if you want.
+
+198
+00:09:53,720 --> 00:09:56,430
+i'm staying here with my father.
+
+199
+00:09:58,730 --> 00:10:01,370
+but what happened? things were going fine.
+
+200
+00:10:01,540 --> 00:10:04,760
+i'm sorry. we need another realtor.
+
+201
+00:10:16,540 --> 00:10:18,180
+all right.
+
+202
+00:10:18,330 --> 00:10:21,670
+biscuits are the foundation of any southern meal.
+
+203
+00:10:21,830 --> 00:10:24,050
+like my meemaw used to say, "ain't nothin' you can make
+
+204
+00:10:24,210 --> 00:10:26,500
+don't taste better on a biscuit."
+
+205
+00:10:26,760 --> 00:10:28,890
+a fount of wisdom, your meemaw.
+
+206
+00:10:29,060 --> 00:10:30,120
+uh-huh.
+
+207
+00:10:30,290 --> 00:10:31,490
+well...
+
+208
+00:10:32,010 --> 00:10:34,540
+i really appreciate this. thanks,adele.
+
+209
+00:10:34,700 --> 00:10:37,800
+"adele"? if you don't call me "mama," i'm gon' scream.
+
+210
+00:10:37,960 --> 00:10:40,820
+don't do that... mama.
+
+211
+00:10:41,400 --> 00:10:42,690
+now let's get started.
+
+212
+00:10:42,860 --> 00:10:44,660
+we're gonna need a flour sifter.
+
+213
+00:10:44,790 --> 00:10:46,660
+i don't have one.
+
+214
+00:10:46,830 --> 00:10:49,040
+pastry cutter? sorry.
+
+215
+00:10:49,210 --> 00:10:52,590
+dough hooks? don't even know what they are.
+
+216
+00:10:52,940 --> 00:10:55,110
+that's fine. we can improvise.
+
+217
+00:10:55,280 --> 00:10:59,560
+why don't you start by measuring out our dry ingrEdients?
+
+218
+00:11:01,380 --> 00:11:02,960
+the flour and such?
+
+219
+00:11:03,120 --> 00:11:04,110
+oh.
+
+220
+00:11:04,830 --> 00:11:07,430
+michael is gonna be so happy.
+
+221
+00:11:07,590 --> 00:11:08,730
+after a long day of work,
+
+222
+00:11:08,900 --> 00:11:13,350
+he can come home to a nice, home-cooked southern meal.
+
+223
+00:11:13,660 --> 00:11:14,640
+although he also enjoys
+
+224
+00:11:14,800 --> 00:11:17,510
+coming home to sesame chicken from red panda,
+
+225
+00:11:17,650 --> 00:11:19,690
+and they deliver.
+
+226
+00:11:21,360 --> 00:11:24,790
+you know,it's a shame that michael has to work so hard.
+
+227
+00:11:24,960 --> 00:11:26,990
+but i guess with all the money troubles
+
+228
+00:11:27,160 --> 00:11:30,550
+you two have been havin'... he told you that?
+
+229
+00:11:30,720 --> 00:11:32,710
+well,we're getting past it.
+
+230
+00:11:32,870 --> 00:11:36,210
+only because my son is working himself to the bone.
+
+231
+00:11:36,370 --> 00:11:39,810
+you know,it wouldn't hurt for you to get a job. i have a job.
+
+232
+00:11:39,970 --> 00:11:43,240
+oh,you mean your little drawings?
+
+233
+00:11:44,030 --> 00:11:46,080
+well,it's great for a woman to have a hobby.
+
+234
+00:11:46,230 --> 00:11:47,720
+personally,i decoupage,
+
+235
+00:11:47,880 --> 00:11:49,750
+but i'm talking about something that pays.
+
+236
+00:11:49,900 --> 00:11:51,210
+children's books pay.
+
+237
+00:11:51,360 --> 00:11:54,370
+really? how much?
+
+238
+00:11:55,170 --> 00:11:56,480
+you know,i think,actually,
+
+239
+00:11:56,640 --> 00:12:00,220
+i might have those dough hooks somewhere.
+
+240
+00:12:00,540 --> 00:12:02,500
+oh,dear. i've insulted you.
+
+241
+00:12:02,660 --> 00:12:04,880
+now i'm just trying to be helpful.
+
+242
+00:12:05,030 --> 00:12:07,530
+no,no. it's fine,adele.
+
+243
+00:12:07,780 --> 00:12:09,620
+mama.
+
+244
+00:12:13,970 --> 00:12:16,170
+so we were sort of surprised to get your call.
+
+245
+00:12:16,320 --> 00:12:18,440
+don't you need to see kayla a few more times
+
+246
+00:12:18,600 --> 00:12:22,200
+before you report back to us? well,before continuing with her,
+
+247
+00:12:22,360 --> 00:12:27,410
+i thought it might be helpful to ask you a few questions. oh,go ahead. shoot.
+
+248
+00:12:29,000 --> 00:12:32,040
+do you love kayla?
+
+249
+00:12:32,730 --> 00:12:34,440
+Lynette? hmm?
+
+250
+00:12:34,610 --> 00:12:35,760
+i was talking to you.
+
+251
+00:12:35,930 --> 00:12:39,550
+oh. well... s-sure.
+
+252
+00:12:40,140 --> 00:12:42,020
+i've been very good to her.
+
+253
+00:12:42,180 --> 00:12:44,550
+that wasn't his question.
+
+254
+00:12:45,090 --> 00:12:46,390
+do you have a diploma on your wall,tom?
+
+255
+00:12:46,560 --> 00:12:49,200
+i don't think so. zip it.
+
+256
+00:12:50,300 --> 00:12:52,470
+again,um...
+
+257
+00:12:53,430 --> 00:12:55,840
+do you love her?
+
+258
+00:12:57,780 --> 00:12:59,300
+of course i do...
+
+259
+00:12:59,470 --> 00:13:02,510
+as much as i can,given the way she joined our family.
+
+260
+00:13:02,660 --> 00:13:04,790
+it's just-it's complicated.
+
+261
+00:13:04,950 --> 00:13:08,020
+i understand. the problem is,
+
+262
+00:13:08,180 --> 00:13:10,560
+kayla has picked up on your ambivalence,
+
+263
+00:13:10,720 --> 00:13:14,950
+and she's become a very angry girl.
+
+264
+00:13:15,370 --> 00:13:16,620
+so what do we do?
+
+265
+00:13:16,790 --> 00:13:19,870
+oh,god. is this gonna be one of those therapy things
+
+266
+00:13:20,020 --> 00:13:22,280
+where she hits me with a foam bat?
+
+267
+00:13:22,430 --> 00:13:24,010
+there's a bond that develops
+
+268
+00:13:24,180 --> 00:13:26,230
+between an infant and her mother.
+
+269
+00:13:26,390 --> 00:13:28,910
+you and kayla never formed that bond,
+
+270
+00:13:29,070 --> 00:13:31,690
+so what we need to do is recreate it.
+
+271
+00:13:31,840 --> 00:13:34,220
+it's called attachment parenting,
+
+272
+00:13:34,390 --> 00:13:37,600
+and it starts with kayla being by your side
+
+273
+00:13:37,760 --> 00:13:39,830
+as often as possible.
+
+274
+00:13:39,990 --> 00:13:43,650
+that sounds like exactly what they need.
+
+275
+00:13:43,810 --> 00:13:46,070
+i mean,i don't have a diploma or anything,but...
+
+276
+00:13:46,220 --> 00:13:47,730
+i'd really like to give this a try.
+
+277
+00:13:47,880 --> 00:13:51,000
+whatever keeps you and kayla close and interacting-
+
+278
+00:13:51,150 --> 00:13:52,750
+go to the movies, go shopping,
+
+279
+00:13:52,900 --> 00:13:56,470
+maybe take a little trip together,just the two of you.
+
+280
+00:13:56,800 --> 00:13:59,810
+could we revisit the foam bat idea for just a second?
+
+281
+00:13:59,970 --> 00:14:02,780
+the plan sounds great,doc. don't worry.
+
+282
+00:14:02,930 --> 00:14:06,350
+i will make sure that they are together constantly.
+
+283
+00:14:07,790 --> 00:14:10,410
+<i>as me if i love tom right now.</i>
+
+284
+00:14:10,560 --> 00:14:12,900
+go ahead. i dare ya.
+
+285
+00:14:19,210 --> 00:14:20,040
+may i help you?
+
+286
+00:14:20,190 --> 00:14:22,250
+i haven't seen benjamin in a week.
+
+287
+00:14:22,410 --> 00:14:26,040
+i was thinking i'd take him for a few hours. it's not really a good time.
+
+288
+00:14:26,200 --> 00:14:28,150
+well,Bree,whenever i call, it's not a good time,
+
+289
+00:14:28,310 --> 00:14:29,430
+so if you don't mind,
+
+290
+00:14:29,620 --> 00:14:32,910
+i'd like to take my son to the carnival. well,that sounds boring.
+
+291
+00:14:33,070 --> 00:14:35,560
+i know. why don't you take him to Edie's house,
+
+292
+00:14:35,710 --> 00:14:39,930
+and he can watch you give her a dental exam with your tongue?
+
+293
+00:14:41,450 --> 00:14:43,250
+Bree,you don't understand.
+
+294
+00:14:43,420 --> 00:14:46,100
+what you saw was bad judgment on Edie's part
+
+295
+00:14:46,260 --> 00:14:48,600
+and good judgment on my part. i pushed her away.
+
+296
+00:14:48,760 --> 00:14:52,110
+yes,eventually,with a big, dopey grin on your face.
+
+297
+00:14:52,270 --> 00:14:53,650
+can we please put this behind us?
+
+298
+00:14:53,810 --> 00:14:57,360
+i would like to take benjamin. i don't think so. i'd hate for him to be around
+
+299
+00:14:57,520 --> 00:14:59,730
+when you had another attack of delayed morality,
+
+300
+00:14:59,900 --> 00:15:03,540
+either with Edie or behind the wheel of your car.
+
+301
+00:15:03,870 --> 00:15:06,130
+i am not having this argument.
+
+302
+00:15:06,290 --> 00:15:08,610
+he is my son,too.
+
+303
+00:15:08,770 --> 00:15:11,510
+not exactly.
+
+304
+00:15:11,680 --> 00:15:14,770
+what? don't even-
+
+305
+00:15:14,930 --> 00:15:17,150
+strictly speaking, you're not even related to him.
+
+306
+00:15:17,310 --> 00:15:19,700
+i mean,it was fine for you to masquerade as his father
+
+307
+00:15:19,850 --> 00:15:21,140
+when we were together, but now that we're not-
+
+308
+00:15:21,290 --> 00:15:25,300
+this is wrong. i will hire a lawyer.
+
+309
+00:15:25,450 --> 00:15:29,770
+i've already hired one. you'll be hearing from him shortly.
+
+310
+00:15:32,490 --> 00:15:34,560
+oh,and if you're in the mood for a carnival,
+
+311
+00:15:34,710 --> 00:15:37,050
+why not call Edie?
+
+312
+00:15:37,210 --> 00:15:40,810
+i hear you get three throws for a dollar with her,too.
+
+313
+00:15:44,190 --> 00:15:45,610
+bye,Gaby.
+
+314
+00:15:45,780 --> 00:15:46,840
+you guys going for another walk?
+
+315
+00:15:47,010 --> 00:15:48,400
+yeah. we found this sweet hiking trail-
+
+316
+00:15:48,560 --> 00:15:51,320
+goes right through the middle of the woods. yeah,and unlike some people,
+
+317
+00:15:51,470 --> 00:15:54,400
+ellie doesn't let the branches hit me in my face.
+
+318
+00:15:54,560 --> 00:15:57,860
+you're spoiling him.
+
+319
+00:16:01,960 --> 00:16:04,180
+what the hell?
+
+320
+00:16:11,760 --> 00:16:14,280
+ellie,your door is locked!
+
+321
+00:16:14,440 --> 00:16:16,220
+ellie!
+
+322
+00:16:32,800 --> 00:16:35,600
+oh,shut up already.
+
+323
+00:16:54,030 --> 00:16:54,810
+mom,guess what?
+
+324
+00:16:54,970 --> 00:16:56,840
+dad's coming to my senior recital next week.
+
+325
+00:16:57,010 --> 00:16:59,560
+<i>i could swing by and pick you up,if you want.</i>
+
+326
+00:16:59,730 --> 00:17:01,900
+we could make it a real family outing.
+
+327
+00:17:02,050 --> 00:17:06,370
+dylan,your father and i need to talk... in private.
+
+328
+00:17:06,520 --> 00:17:08,320
+i'm not done saying good-bye.
+
+329
+00:17:08,480 --> 00:17:11,870
+yes,you are. please get rid of that gum.
+
+330
+00:17:12,020 --> 00:17:15,540
+i can hear you smacking all the way in the house.
+
+331
+00:17:17,320 --> 00:17:19,160
+bye,sweetheart. bye,dad.
+
+332
+00:17:26,400 --> 00:17:28,270
+just so we're clear,
+
+333
+00:17:28,420 --> 00:17:30,910
+there will be no family outings.
+
+334
+00:17:31,070 --> 00:17:32,860
+now,kathy, you shouldn't be rude
+
+335
+00:17:33,020 --> 00:17:35,510
+to a man who still has feelings for you.
+
+336
+00:17:35,660 --> 00:17:37,670
+meaning what? you still love me?
+
+337
+00:17:37,830 --> 00:17:40,480
+i do. and i know i'm somewhat to blame
+
+338
+00:17:40,640 --> 00:17:41,760
+for what's happened between us.
+
+339
+00:17:41,920 --> 00:17:44,020
+that's why i've forgiven you for kidnapping our daughter.
+
+340
+00:17:44,170 --> 00:17:48,820
+<i>the least you can do is meet me halfway.</i>
+
+341
+00:17:49,930 --> 00:17:51,700
+oh,wayne.
+
+342
+00:17:51,850 --> 00:17:53,660
+i don't deserve your forgiveness.
+
+343
+00:17:53,820 --> 00:17:57,070
+maybe not,but i'm gonna give it to you anyway 'cause...
+
+344
+00:17:57,370 --> 00:18:01,550
+i still think we could be happy together.
+
+345
+00:18:01,710 --> 00:18:04,020
+<i>could we?</i>
+
+346
+00:18:04,280 --> 00:18:05,840
+given all the things i did
+
+347
+00:18:06,000 --> 00:18:08,770
+that you don't know about?
+
+348
+00:18:09,610 --> 00:18:10,800
+what's that?
+
+349
+00:18:10,990 --> 00:18:13,570
+i'm talking about all those men i was with
+
+350
+00:18:13,740 --> 00:18:15,900
+while we were married.
+
+351
+00:18:16,060 --> 00:18:19,420
+how can you forgive something like that?
+
+352
+00:18:19,580 --> 00:18:21,300
+that's a lie.
+
+353
+00:18:21,450 --> 00:18:22,810
+you wouldn't have dared.
+
+354
+00:18:22,970 --> 00:18:26,340
+unhappy women do dangerous things.
+
+355
+00:18:26,500 --> 00:18:28,370
+i think the worst
+
+356
+00:18:28,530 --> 00:18:30,410
+was when i tricked you
+
+357
+00:18:30,570 --> 00:18:33,720
+into thinking dylan was yours.
+
+358
+00:18:35,310 --> 00:18:38,580
+i wanted to tell you the truth, but i was scared...
+
+359
+00:18:40,130 --> 00:18:42,010
+for obvious reasons.
+
+360
+00:18:42,170 --> 00:18:44,310
+i don't believe you.
+
+361
+00:18:44,920 --> 00:18:48,510
+but i'm not worried anymore
+
+362
+00:18:48,680 --> 00:18:50,790
+because you've changed.
+
+363
+00:18:51,930 --> 00:18:54,550
+so what are you waiting for, wayne?
+
+364
+00:18:54,860 --> 00:18:56,960
+forgive me.
+
+365
+00:18:58,730 --> 00:19:02,060
+hey there! mrs. mccluskey.
+
+366
+00:19:06,560 --> 00:19:09,950
+if she's not mine, then whose is she?
+
+367
+00:19:10,290 --> 00:19:12,800
+does it matter?
+
+368
+00:19:14,930 --> 00:19:18,870
+oh,i guess i won't be seeing you at the recital now.
+
+369
+00:19:19,150 --> 00:19:22,380
+hmm. what a shame.
+
+370
+00:19:40,050 --> 00:19:41,870
+are you sure it was cocaine?
+
+371
+00:19:42,030 --> 00:19:43,880
+Carlos,i was a fashion model in the '90s.
+
+372
+00:19:44,040 --> 00:19:46,480
+i know cocaine.
+
+373
+00:19:46,890 --> 00:19:48,780
+damn it.
+
+374
+00:19:49,560 --> 00:19:52,100
+what are you doing? i'm calling the police.
+
+375
+00:19:52,400 --> 00:19:53,310
+whoa,whoa,whoa,whoa!
+
+376
+00:19:53,470 --> 00:19:57,080
+shouldn't we hear ellie's side of the story first? here's ellie's side.
+
+377
+00:19:57,250 --> 00:19:59,800
+"selling drugs brings in more money than waiting tables."
+
+378
+00:19:59,950 --> 00:20:02,920
+there you go. were you moved?
+
+379
+00:20:03,070 --> 00:20:04,850
+okay,look, maybe i was wrong.
+
+380
+00:20:04,990 --> 00:20:07,890
+maybe it was flour. maybe she's a pastry chef.
+
+381
+00:20:08,050 --> 00:20:10,720
+yeah! and she came up with that tattoo cover story
+
+382
+00:20:10,880 --> 00:20:13,520
+to hide her illicit baking.
+
+383
+00:20:13,670 --> 00:20:15,090
+all right,look, i know we have to do something,
+
+384
+00:20:15,250 --> 00:20:17,410
+but this woman's our friend.
+
+385
+00:20:17,570 --> 00:20:21,010
+yes,and i'm a convicted felon still on probation.
+
+386
+00:20:21,170 --> 00:20:23,060
+now if the police find out we're harboring a drug dealer,
+
+387
+00:20:23,210 --> 00:20:28,000
+they're gonna fry me. we have to turn her in.
+
+388
+00:20:32,100 --> 00:20:33,500
+well,the priority for me
+
+389
+00:20:33,650 --> 00:20:35,740
+is working out custody of benjamin.
+
+390
+00:20:35,910 --> 00:20:36,960
+to that end,i've written down
+
+391
+00:20:37,130 --> 00:20:39,920
+all the pertinent facts about the situation.
+
+392
+00:20:40,070 --> 00:20:41,970
+no,i don't want to do this over the phone.
+
+393
+00:20:42,120 --> 00:20:43,660
+uh,listen. i'm gonna hop in the shower.
+
+394
+00:20:43,820 --> 00:20:48,010
+how about we meet in your office in about an hour? great. thanks.
+
+395
+00:20:53,890 --> 00:20:55,270
+Orson?
+
+396
+00:20:58,000 --> 00:20:59,320
+Orson?
+
+397
+00:20:59,480 --> 00:21:01,430
+the,uh,the door's open.
+
+398
+00:21:01,600 --> 00:21:03,000
+Edie? what are you doing here?
+
+399
+00:21:03,170 --> 00:21:05,140
+get out here,you wuss.
+
+400
+00:21:05,310 --> 00:21:07,280
+that puritanical robot bitch of yours
+
+401
+00:21:07,440 --> 00:21:10,190
+is sabotaging my business.
+
+402
+00:21:10,940 --> 00:21:14,530
+okay,hang on a second. i'll be right out.
+
+403
+00:21:32,530 --> 00:21:35,670
+you know,uh,Orson... forget it.
+
+404
+00:21:35,840 --> 00:21:38,710
+just-just take a nice,long shower.
+
+405
+00:21:38,870 --> 00:21:40,970
+really? you sure?
+
+406
+00:21:41,130 --> 00:21:43,960
+yeah. uh, now that i think about it,
+
+407
+00:21:44,130 --> 00:21:47,470
+i can handle Bree all by myself.
+
+408
+00:21:54,490 --> 00:21:58,820
+so that's when i saw all those bricks of cocaine under her bed.
+
+409
+00:21:59,580 --> 00:22:01,650
+i mean,i-i mean, i think it was cocaine,
+
+410
+00:22:01,810 --> 00:22:03,020
+and i think they're called bricks.
+
+411
+00:22:03,180 --> 00:22:06,490
+i'm just a simple housewife. i don't know what i'm saying.
+
+412
+00:22:07,560 --> 00:22:09,660
+well,you've done the right thing,and it's thanks
+
+413
+00:22:09,820 --> 00:22:11,550
+to the cooperation of citizens like you-
+
+414
+00:22:11,710 --> 00:22:14,510
+yeah,yeah,yeah. when are you gonna get her out of our house?
+
+415
+00:22:14,670 --> 00:22:18,560
+well,it's a little more complicated than that.
+
+416
+00:22:18,730 --> 00:22:20,530
+meaning?
+
+417
+00:22:20,680 --> 00:22:22,860
+bullock!
+
+418
+00:22:27,250 --> 00:22:28,260
+oh,my god!
+
+419
+00:22:28,430 --> 00:22:31,180
+<i>what? what? i can't see anything.</i>
+
+420
+00:22:31,330 --> 00:22:32,950
+it's one of ellie's customers.
+
+421
+00:22:33,100 --> 00:22:35,110
+actually, i'm detective bullock.
+
+422
+00:22:35,280 --> 00:22:37,870
+we've been tracking miss leonard for several months now.
+
+423
+00:22:38,020 --> 00:22:40,000
+okay,so if you know what she's doing,
+
+424
+00:22:40,030 --> 00:22:43,050
+then why don't you just bust her? she's small-time.
+
+425
+00:22:43,210 --> 00:22:44,220
+we're trying to get to her supplier,
+
+426
+00:22:44,390 --> 00:22:46,680
+so we need her to keep dealing.
+
+427
+00:22:46,850 --> 00:22:50,850
+wait. so you're just gonna leave a drug dealer in our house?
+
+428
+00:22:51,010 --> 00:22:52,990
+yes. for now we just need you
+
+429
+00:22:53,150 --> 00:22:55,740
+to act normal,pretend like you don't know anything.
+
+430
+00:22:55,910 --> 00:22:59,430
+we'll move in when the case is made. okay,look,
+
+431
+00:22:59,590 --> 00:23:00,950
+i'm all for doing my civic duty,
+
+432
+00:23:01,100 --> 00:23:06,260
+but this woman- she's... sort of a... friend.
+
+433
+00:23:06,410 --> 00:23:07,700
+and now you're asking us to trick her?
+
+434
+00:23:07,860 --> 00:23:11,120
+i'm not sure we're comfortable with this.
+
+435
+00:23:12,370 --> 00:23:15,080
+mr. Solis, you're on probation,right?
+
+436
+00:23:15,240 --> 00:23:17,810
+<i>how'd you like not to be?</i>
+
+437
+00:23:27,760 --> 00:23:29,950
+<i>what on earth could you possibly want?</i>
+
+438
+00:23:30,110 --> 00:23:31,730
+oh,i wanted to thank you.
+
+439
+00:23:31,900 --> 00:23:33,190
+after you scared off that couple
+
+440
+00:23:33,360 --> 00:23:35,250
+that were going to buy the young house,
+
+441
+00:23:35,400 --> 00:23:37,280
+i,uh,found another buyer,
+
+442
+00:23:37,440 --> 00:23:40,120
+and they're willing to go 10% over asking.
+
+443
+00:23:40,260 --> 00:23:43,290
+well,good,when they drop by for their inspection,
+
+444
+00:23:43,450 --> 00:23:46,310
+i'll just have to have a nice little chat with them,too.
+
+445
+00:23:46,470 --> 00:23:48,590
+you wouldn't wanna do that to me.
+
+446
+00:23:48,750 --> 00:23:52,110
+and after all, we're family.
+
+447
+00:23:52,270 --> 00:23:53,350
+family?
+
+448
+00:23:53,500 --> 00:23:55,560
+well,yes, since my nephew austin
+
+449
+00:23:55,720 --> 00:23:57,240
+is benjamin's biological father,
+
+450
+00:23:57,390 --> 00:24:01,630
+that makes me benjy's great-aunt-
+
+451
+00:24:01,790 --> 00:24:03,010
+a term i don't exactly love,
+
+452
+00:24:03,170 --> 00:24:05,680
+but it's better than "grandma,"
+
+453
+00:24:05,850 --> 00:24:08,700
+<i>which is what you are.</i>
+
+454
+00:24:09,190 --> 00:24:10,290
+how did you...
+
+455
+00:24:10,460 --> 00:24:11,360
+cute story.
+
+456
+00:24:11,530 --> 00:24:15,460
+i- i went over to Orson's to ask him to get you off my back,
+
+457
+00:24:15,610 --> 00:24:16,660
+and the poor sap-
+
+458
+00:24:16,810 --> 00:24:18,940
+he-he'd written the whole sordid tale down
+
+459
+00:24:19,100 --> 00:24:21,460
+and left it right there on the table.
+
+460
+00:24:21,610 --> 00:24:23,770
+Edie,if word got out,
+
+461
+00:24:23,950 --> 00:24:26,980
+my whole family would be... humiliated.
+
+462
+00:24:27,140 --> 00:24:28,440
+oh,i don't want word to get out.
+
+463
+00:24:28,610 --> 00:24:32,240
+that would ruin everything, because right now i...
+
+464
+00:24:32,400 --> 00:24:34,940
+well,i own you.
+
+465
+00:24:35,120 --> 00:24:36,340
+what does that mean?
+
+466
+00:24:36,520 --> 00:24:39,300
+glad you asked.
+
+467
+00:24:39,560 --> 00:24:42,530
+from this moment on, i am your best friend.
+
+468
+00:24:42,700 --> 00:24:44,670
+you're gonna invite me to all of your fancy parties,
+
+469
+00:24:44,820 --> 00:24:46,560
+set me up with all your single friends,
+
+470
+00:24:46,730 --> 00:24:50,120
+and,well,if i'm ever in the mood for muffins,
+
+471
+00:24:50,290 --> 00:24:51,850
+you're gonna bake 'em for me.
+
+472
+00:24:52,020 --> 00:24:54,070
+Edie... please.
+
+473
+00:24:54,240 --> 00:24:55,930
+and if you don't,
+
+474
+00:24:56,090 --> 00:24:59,780
+if for one second i don't feel the love,
+
+475
+00:24:59,940 --> 00:25:02,350
+i'm gonna bury you.
+
+476
+00:25:02,510 --> 00:25:04,580
+you understand?
+
+477
+00:25:05,280 --> 00:25:06,400
+yeah.
+
+478
+00:25:06,580 --> 00:25:08,190
+good.
+
+479
+00:25:08,360 --> 00:25:12,340
+oh,by the way,um,i'm having an open house tomorrow.
+
+480
+00:25:12,510 --> 00:25:16,010
+a plate of banana nut muffins sure would set the mood.
+
+481
+00:25:16,170 --> 00:25:18,670
+don't you think?
+
+482
+00:25:22,300 --> 00:25:24,150
+oh! oh!
+
+483
+00:25:24,320 --> 00:25:27,110
+hey,honey, could you get that? thank you.
+
+484
+00:25:30,400 --> 00:25:32,110
+hey,Bree,perfect timing.
+
+485
+00:25:32,270 --> 00:25:37,650
+<i>we were just getting ready to deal the cards. Bree,are you okay?</i>
+
+486
+00:25:41,480 --> 00:25:45,730
+there's something i've been... keeping from all of you,
+
+487
+00:25:45,890 --> 00:25:47,490
+and,um...
+
+488
+00:25:49,180 --> 00:25:51,820
+we need to talk.
+
+489
+00:25:56,230 --> 00:25:57,850
+hey,wayne.
+
+490
+00:25:58,010 --> 00:25:59,590
+i finished that d.n.a. you wanted.
+
+491
+00:25:59,750 --> 00:26:00,580
+i'm probably gonna get in trouble
+
+492
+00:26:00,740 --> 00:26:02,990
+because i put it in front of martin's triple homicide.
+
+493
+00:26:03,150 --> 00:26:04,650
+you bad girl.
+
+494
+00:26:04,820 --> 00:26:06,500
+well,i owe you. i just needed to confirm
+
+495
+00:26:06,650 --> 00:26:11,510
+that the vic and my suspect are related. oh,well,actually,they're not.
+
+496
+00:26:11,660 --> 00:26:13,190
+i ran the samples from the cheek swab
+
+497
+00:26:13,340 --> 00:26:14,190
+and the wad of gum you gave me,
+
+498
+00:26:14,350 --> 00:26:17,600
+and your suspect's not related to the victim at all.
+
+499
+00:26:18,580 --> 00:26:22,830
+are you sure? mm-hmm. oh, yeah,it's 100% exclusion.
+
+500
+00:26:22,990 --> 00:26:25,440
+are you hungry? 'cause i worked all through lunch,
+
+501
+00:26:25,600 --> 00:26:29,610
+and i thought that you and i could go get-
+
+502
+00:26:30,210 --> 00:26:31,920
+wayne?
+
+503
+00:26:33,530 --> 00:26:36,980
+oh,my god.
+
+504
+00:26:37,130 --> 00:26:40,020
+and Edie threatened to use that to...
+
+505
+00:26:40,190 --> 00:26:41,280
+yes.
+
+506
+00:26:41,440 --> 00:26:42,750
+okay,first of all, you're,like,
+
+507
+00:26:42,900 --> 00:26:46,060
+the greatest mom ever to wanna protect danielle like that.
+
+508
+00:26:46,220 --> 00:26:47,870
+thank you.
+
+509
+00:26:48,040 --> 00:26:50,560
+i can't believe she was blackmailing you.
+
+510
+00:26:50,720 --> 00:26:52,680
+i can't believe she made a play for Orson.
+
+511
+00:26:52,840 --> 00:26:56,750
+<i>i can. she went after Carlos and Mike and karl.</i>
+
+512
+00:26:56,910 --> 00:26:58,880
+the only person she hasn't gone after is tom.
+
+513
+00:26:59,050 --> 00:27:00,510
+<i>yet.</i>
+
+514
+00:27:00,670 --> 00:27:03,180
+this woman is outta control.
+
+515
+00:27:03,960 --> 00:27:06,620
+what are you gonna do?
+
+516
+00:27:06,960 --> 00:27:11,450
+<i>no. what are we gonna do?</i>
+
+517
+00:27:37,780 --> 00:27:40,410
+hey,guys,what's going on?
+
+518
+00:27:40,570 --> 00:27:42,560
+i told them everything, Edie,
+
+519
+00:27:42,730 --> 00:27:44,450
+about Orson,benjamin,
+
+520
+00:27:44,600 --> 00:27:46,360
+everything. you did?
+
+521
+00:27:46,500 --> 00:27:47,720
+she did, so you can kiss
+
+522
+00:27:47,890 --> 00:27:50,540
+that little blackmail scheme good-bye.
+
+523
+00:27:50,700 --> 00:27:51,900
+well,i was only doing it because-
+
+524
+00:27:52,060 --> 00:27:55,130
+you were only doing it because you're the devil.
+
+525
+00:27:55,570 --> 00:27:58,570
+okay,fine,chew me out and let's get on with it.
+
+526
+00:27:58,730 --> 00:28:00,630
+it's not like all the other times,Edie.
+
+527
+00:28:00,790 --> 00:28:02,310
+we're done.
+
+528
+00:28:03,380 --> 00:28:04,290
+done?
+
+529
+00:28:04,450 --> 00:28:06,390
+we're not inviting you to poker. we're not talking to you.
+
+530
+00:28:06,540 --> 00:28:08,120
+we're not even gonna wave when you jog by.
+
+531
+00:28:08,280 --> 00:28:13,320
+from now on,you are invisible. and we're gonna make sure every woman in a 5-mile radius
+
+532
+00:28:13,470 --> 00:28:15,020
+knows the kind of crap you pulled.
+
+533
+00:28:15,170 --> 00:28:17,440
+we tried to be your friends, but you don't even understand
+
+534
+00:28:17,590 --> 00:28:19,930
+what that word means, so now we're gonna be something
+
+535
+00:28:20,080 --> 00:28:22,450
+you do understand.
+
+536
+00:28:24,430 --> 00:28:28,520
+guys,wait. wait. i know i crossed a line this time,
+
+537
+00:28:28,690 --> 00:28:30,970
+and,well,i'm-i'm sorry.
+
+538
+00:28:31,130 --> 00:28:32,270
+did you hear something?
+
+539
+00:28:32,440 --> 00:28:33,250
+mnh-mnh.
+
+540
+00:28:33,420 --> 00:28:35,810
+neither did i.
+
+541
+00:28:42,870 --> 00:28:44,760
+<i>over here, honey,look at the camera.</i>
+
+542
+00:28:44,920 --> 00:28:48,810
+<i>look at the camera. you ready to ride,dylan?</i>
+
+543
+00:28:48,970 --> 00:28:51,390
+<i>now look,if you're scared, you don't have to. i want to.</i>
+
+544
+00:28:51,560 --> 00:28:53,180
+<i>no,you're a brave girl.</i>
+
+545
+00:28:53,340 --> 00:28:55,630
+<i>hold up your arm for the camera,sweetheart.</i>
+
+546
+00:28:55,780 --> 00:28:58,060
+<i>how many stitches is that? 11.</i>
+
+547
+00:28:58,230 --> 00:29:00,400
+<i>and you didn't cry once, did you?</i>
+
+548
+00:29:00,750 --> 00:29:02,790
+<i>can i ride now,please, daddy?</i>
+
+549
+00:29:02,960 --> 00:29:03,680
+<i>of course,baby.</i>
+
+550
+00:29:03,840 --> 00:29:05,680
+<i>i love you,daddy.</i>
+
+551
+00:29:14,700 --> 00:29:16,860
+dylan,it's me.
+
+552
+00:29:17,030 --> 00:29:20,030
+uh,you need to come over here tomorrow.
+
+553
+00:29:20,380 --> 00:29:23,860
+yeah,i know it's mother's day, but it's okay.
+
+554
+00:29:24,020 --> 00:29:27,510
+i got some things to tell you about your mother.
+
+555
+00:29:32,110 --> 00:29:34,150
+ooh,i want this one.
+
+556
+00:29:34,330 --> 00:29:37,900
+oh. yow! it's a little pricey.
+
+557
+00:29:38,040 --> 00:29:41,490
+but i want it. you're the one who asked me to go shopping.
+
+558
+00:29:41,660 --> 00:29:43,730
+well,i know,but we're supposed to be spending time together,
+
+559
+00:29:43,880 --> 00:29:46,170
+not going into debt.
+
+560
+00:29:48,770 --> 00:29:50,010
+oh.
+
+561
+00:29:50,170 --> 00:29:51,980
+how about this one?
+
+562
+00:29:52,140 --> 00:29:54,990
+what do you mean, "supposed to"?
+
+563
+00:29:55,160 --> 00:29:56,490
+i just...
+
+564
+00:29:56,660 --> 00:29:59,540
+it's good for us to hang out. i enjoy it.
+
+565
+00:29:59,710 --> 00:30:01,540
+is this something that the doctor made you do?
+
+566
+00:30:01,700 --> 00:30:03,460
+no. all my idea.
+
+567
+00:30:03,620 --> 00:30:07,760
+i just wanted to treat you to a real fun day.
+
+568
+00:30:08,130 --> 00:30:10,210
+all right. you want me to have fun?
+
+569
+00:30:10,370 --> 00:30:10,890
+mm-hmm.
+
+570
+00:30:11,050 --> 00:30:13,560
+buy me this.
+
+571
+00:30:15,940 --> 00:30:18,390
+okay.
+
+572
+00:30:18,550 --> 00:30:20,500
+good times.
+
+573
+00:30:21,660 --> 00:30:24,730
+i'd like an old-fashioned, please.
+
+574
+00:30:26,230 --> 00:30:28,390
+what's the matter,michael? you tuckered out?
+
+575
+00:30:28,560 --> 00:30:30,210
+oh,yeah,i just didn't get much sleep.
+
+576
+00:30:30,380 --> 00:30:32,300
+<i>honestly,i wonder how you ever get any,</i>
+
+577
+00:30:32,470 --> 00:30:34,410
+well,considering you got Susan in the bed
+
+578
+00:30:34,590 --> 00:30:36,960
+sawing wood all night.
+
+579
+00:30:38,260 --> 00:30:40,380
+i'm doing what now?
+
+580
+00:30:40,690 --> 00:30:42,420
+snoring.
+
+581
+00:30:42,590 --> 00:30:44,330
+what'd you say it sounded like,michael?
+
+582
+00:30:44,500 --> 00:30:47,070
+a bunch of bulldogs in a bag?
+
+583
+00:30:47,480 --> 00:30:50,290
+but it is a sound that i've come to love.
+
+584
+00:30:50,460 --> 00:30:53,210
+you know what my meemaw did to grandpa boo?
+
+585
+00:30:53,370 --> 00:30:56,020
+she sewed a marble in the back of his pajama top,
+
+586
+00:30:56,190 --> 00:30:58,130
+then if he rolled on his back to start snorin',
+
+587
+00:30:58,290 --> 00:31:02,000
+it'd wake him right up. but i guess you can't do that,
+
+588
+00:31:02,160 --> 00:31:05,280
+seeing as how you sleep in the nude and all.
+
+589
+00:31:06,720 --> 00:31:09,750
+well, that's gonna change real soon.
+
+590
+00:31:10,210 --> 00:31:14,670
+i'm gon' fix my face before i order. excuse me.
+
+591
+00:31:16,520 --> 00:31:17,880
+oh,this is nice.
+
+592
+00:31:18,050 --> 00:31:20,190
+nice? she's driving me crazy.
+
+593
+00:31:20,340 --> 00:31:22,680
+you have got to stop complaining about me to her.
+
+594
+00:31:22,840 --> 00:31:24,880
+i don't... complain.
+
+595
+00:31:25,030 --> 00:31:28,820
+well,you could see how i, as the nude,snoring whore,
+
+596
+00:31:28,980 --> 00:31:30,380
+would think so.
+
+597
+00:31:30,550 --> 00:31:32,120
+okay, now i might vent a little bit,
+
+598
+00:31:32,280 --> 00:31:34,540
+but she's just trying to help. well, the next time she tries to help,
+
+599
+00:31:34,700 --> 00:31:36,620
+she's gonna get an old-fashioned in her face,
+
+600
+00:31:36,790 --> 00:31:41,910
+so you better step up and start defending me. okay,okay.
+
+601
+00:31:42,190 --> 00:31:44,680
+well,lovely powder room.
+
+602
+00:31:44,860 --> 00:31:46,840
+it's amazing that such a busy restaurant
+
+603
+00:31:47,010 --> 00:31:50,820
+can keep their bathroom cleaner than yours.
+
+604
+00:31:52,510 --> 00:31:55,780
+now,mama,that's- that's not very nice.
+
+605
+00:31:55,950 --> 00:31:56,880
+well,you're the one who told me
+
+606
+00:31:57,050 --> 00:32:00,180
+you didn't marry her for her housekeepin'.
+
+607
+00:32:00,460 --> 00:32:03,000
+you just need someone to teach these things.
+
+608
+00:32:03,160 --> 00:32:04,320
+you know what?
+
+609
+00:32:04,490 --> 00:32:07,110
+why don't i stay a few extra weeks,
+
+610
+00:32:07,270 --> 00:32:09,760
+and you and i can spruce the house up?
+
+611
+00:32:09,910 --> 00:32:11,910
+and don't worry. i'll leave when the baby comes.
+
+612
+00:32:12,060 --> 00:32:15,810
+at my age,all that crying just cuts my nerves to shreds.
+
+613
+00:32:15,990 --> 00:32:18,630
+now the first thing we're gonna do...
+
+614
+00:32:18,790 --> 00:32:21,380
+<i>is wash your walls.</i>
+
+615
+00:32:21,570 --> 00:32:23,760
+just 'cause we don't walk on 'em
+
+616
+00:32:23,920 --> 00:32:26,710
+doesn't mean they don't get dirty.
+
+617
+00:32:27,020 --> 00:32:30,030
+now how do you remember that?
+
+618
+00:32:40,000 --> 00:32:42,550
+...science project. now when you used to read...
+
+619
+00:32:42,720 --> 00:32:45,620
+oh,my god! my water broke. what?
+
+620
+00:32:45,790 --> 00:32:47,920
+my water just broke. i'm in labor.
+
+621
+00:32:48,080 --> 00:32:51,160
+we have to go. you're not due for a month.
+
+622
+00:32:51,320 --> 00:32:54,240
+i don't know what to tell you, mama. look at me.
+
+623
+00:32:55,100 --> 00:32:57,260
+aah! come on. we have to get you to the hospital.
+
+624
+00:32:57,410 --> 00:32:58,760
+well,yes,let's go.
+
+625
+00:32:58,930 --> 00:33:02,230
+no,no,no,you should take a cab home and start packing.
+
+626
+00:33:02,390 --> 00:33:04,270
+this one feels like a crier.
+
+627
+00:33:04,790 --> 00:33:05,600
+well, are you sure i should-
+
+628
+00:33:05,760 --> 00:33:07,730
+aah! aah! come on.
+
+629
+00:33:07,890 --> 00:33:12,140
+aah! aah! aah!
+
+630
+00:33:12,310 --> 00:33:15,050
+ah. ah.
+
+631
+00:33:15,200 --> 00:33:17,330
+you're doing great,honey. just keep breathing.
+
+632
+00:33:17,490 --> 00:33:18,990
+how close are the contractions?
+
+633
+00:33:19,150 --> 00:33:22,690
+a few weeks apart. wanna go to the movies?
+
+634
+00:33:22,840 --> 00:33:23,410
+what?
+
+635
+00:33:23,570 --> 00:33:25,530
+i'm not in labor,okay?
+
+636
+00:33:25,700 --> 00:33:27,390
+but your water broke. i saw it.
+
+637
+00:33:27,550 --> 00:33:28,380
+that was club soda.
+
+638
+00:33:28,530 --> 00:33:32,180
+amniotic fluid doesn't have ice cubes and a lemon wedge. what,you faked that?
+
+639
+00:33:32,340 --> 00:33:33,700
+i'm sorry. i panicked.
+
+640
+00:33:33,860 --> 00:33:36,530
+your mother just invited herself to stay with us for three weeks,
+
+641
+00:33:36,700 --> 00:33:39,200
+and you said nothing. i had to come up with a plan.
+
+642
+00:33:39,370 --> 00:33:41,150
+well,what happens if we go home with no baby?
+
+643
+00:33:41,320 --> 00:33:42,490
+i didn't say it was a good plan.
+
+644
+00:33:42,660 --> 00:33:44,890
+do you see the effect she has on me?
+
+645
+00:33:45,060 --> 00:33:47,340
+i just thank god i wasn't drinking coffee.
+
+646
+00:33:47,510 --> 00:33:53,270
+i could've hurt myself. okay, i get it. i'll talk to her.
+
+647
+00:33:53,440 --> 00:33:55,040
+thank you.
+
+648
+00:33:56,090 --> 00:33:59,140
+do you wanna go back in there right now and tell her?
+
+649
+00:33:59,300 --> 00:34:01,460
+no. no. the restaurant just comped our drinks.
+
+650
+00:34:01,620 --> 00:34:03,780
+we'll tell her at home.
+
+651
+00:34:06,130 --> 00:34:09,500
+well,we've done enough damage for one day.
+
+652
+00:34:09,640 --> 00:34:10,370
+let's go home.
+
+653
+00:34:10,530 --> 00:34:12,010
+i want a corn dog first.
+
+654
+00:34:12,180 --> 00:34:13,710
+oh,honey,we're about to have dinner.
+
+655
+00:34:13,880 --> 00:34:16,580
+but i'm hungry now. i want a corn dog.
+
+656
+00:34:16,760 --> 00:34:19,390
+all right. thank you. if you're hungry,
+
+657
+00:34:19,540 --> 00:34:23,200
+i'll get you something healthy, and you can have it in the car.
+
+658
+00:34:23,360 --> 00:34:27,060
+corn. dog. why can't i have one?
+
+659
+00:34:27,620 --> 00:34:29,160
+well,at this point,
+
+660
+00:34:29,320 --> 00:34:31,360
+because of the way you're acting.
+
+661
+00:34:31,520 --> 00:34:32,660
+please don't do this, kayla.
+
+662
+00:34:32,820 --> 00:34:34,710
+we have been having such a nice time.
+
+663
+00:34:34,870 --> 00:34:37,010
+and we can keep having a nice time.
+
+664
+00:34:37,170 --> 00:34:39,070
+just give me what i want,
+
+665
+00:34:39,240 --> 00:34:41,970
+or you're not gonna like what happens.
+
+666
+00:34:42,750 --> 00:34:44,910
+are you... threatening me?
+
+667
+00:34:45,070 --> 00:34:46,260
+i'm just saying,
+
+668
+00:34:46,410 --> 00:34:48,990
+i got that idiot preston to jump off the roof.
+
+669
+00:34:49,150 --> 00:34:53,080
+wonder what i could get penny to do.
+
+670
+00:34:55,640 --> 00:34:57,310
+i'm sorry.
+
+671
+00:34:57,470 --> 00:35:00,720
+i'm sorry. i shouldn't have done that,but that was...
+
+672
+00:35:02,400 --> 00:35:05,470
+that was horrible,what you said.
+
+673
+00:35:05,630 --> 00:35:06,260
+and-and...
+
+674
+00:35:06,410 --> 00:35:09,180
+you should never say that again.
+
+675
+00:35:10,260 --> 00:35:11,740
+okay,so...
+
+676
+00:35:11,900 --> 00:35:15,250
+come on. let's go. come on.
+
+677
+00:35:18,720 --> 00:35:20,610
+oh,Susan,you're up.
+
+678
+00:35:20,770 --> 00:35:22,680
+michael told me about your false labor.
+
+679
+00:35:22,850 --> 00:35:25,990
+that was unusual. well,it happens.
+
+680
+00:35:26,150 --> 00:35:28,450
+i know,but usually your water doesn't break.
+
+681
+00:35:28,620 --> 00:35:30,390
+oh,that. um...
+
+682
+00:35:30,550 --> 00:35:33,280
+turns out i spilled some club soda.
+
+683
+00:35:33,470 --> 00:35:35,860
+well,no surprise there.
+
+684
+00:35:36,030 --> 00:35:40,060
+michael told me what a klutzy kathy you are.
+
+685
+00:35:41,570 --> 00:35:43,210
+i'm glad he finds that cute.
+
+686
+00:35:43,360 --> 00:35:46,300
+i myself don't have the patience.
+
+687
+00:35:51,640 --> 00:35:52,700
+hey,mama.
+
+688
+00:35:52,860 --> 00:35:54,350
+hello,michael.
+
+689
+00:35:54,680 --> 00:35:57,130
+do you have a mother's day present for me?
+
+690
+00:35:57,280 --> 00:36:01,210
+he sure does, but i want mine first.
+
+691
+00:36:01,600 --> 00:36:03,400
+mama,we need to talk.
+
+692
+00:36:03,570 --> 00:36:07,360
+about what? about the way you talk to people.
+
+693
+00:36:07,520 --> 00:36:12,910
+i mean,um,sometimes you can be a little too... honest.
+
+694
+00:36:16,850 --> 00:36:19,630
+sorry. go on.
+
+695
+00:36:19,780 --> 00:36:22,600
+it's just... you don't realize how things sound
+
+696
+00:36:22,770 --> 00:36:23,700
+when they're coming out of your mouth.
+
+697
+00:36:23,850 --> 00:36:26,970
+i know you mean well- ohh!
+
+698
+00:36:27,130 --> 00:36:31,170
+i'm getting to it. no,no,no, i-i love where this is going.
+
+699
+00:36:31,340 --> 00:36:34,440
+it's just that,mama,sometimes when you're talking to Susan-
+
+700
+00:36:34,600 --> 00:36:37,220
+Susan,you look a little pale. are you okay?
+
+701
+00:36:37,400 --> 00:36:39,890
+oh,she's fine. and i wish she'd cut it out.
+
+702
+00:36:40,030 --> 00:36:42,030
+no,i'm not trying to-ow!
+
+703
+00:36:42,200 --> 00:36:43,760
+Susan?
+
+704
+00:36:44,410 --> 00:36:46,460
+are-are you going into labor? for real?
+
+705
+00:36:46,640 --> 00:36:49,050
+maybe. who cares? let her have it.
+
+706
+00:36:49,220 --> 00:36:50,200
+okay,okay.
+
+707
+00:36:50,350 --> 00:36:52,260
+mama,you've gotta stop taking potshots at Susan.
+
+708
+00:36:52,420 --> 00:36:53,800
+she's my wife, and i love her,
+
+709
+00:36:53,960 --> 00:36:55,590
+and i can't have you upsetting her.
+
+710
+00:36:55,750 --> 00:37:00,630
+sweetheart,i-i am deeply sorry and mortified.
+
+711
+00:37:00,780 --> 00:37:03,100
+if-if i've caused you any distress,
+
+712
+00:37:03,260 --> 00:37:05,390
+i never meant to hurt your feelings.
+
+713
+00:37:05,550 --> 00:37:08,260
+apology accepted. let's go.
+
+714
+00:37:09,120 --> 00:37:10,140
+oh. whoo!
+
+715
+00:37:13,570 --> 00:37:16,660
+happy mother's day!
+
+716
+00:37:16,820 --> 00:37:17,820
+oh.
+
+717
+00:37:18,190 --> 00:37:19,770
+oh,my gosh!
+
+718
+00:37:19,940 --> 00:37:24,010
+that is so sweet. thank you so much.
+
+719
+00:37:24,170 --> 00:37:26,420
+we're gonna go get your present. yeah.
+
+720
+00:37:26,580 --> 00:37:28,220
+okay.
+
+721
+00:37:28,380 --> 00:37:30,610
+i hope you like turtles.
+
+722
+00:37:31,470 --> 00:37:33,200
+so...
+
+723
+00:37:34,310 --> 00:37:36,120
+no kayla?
+
+724
+00:37:36,280 --> 00:37:38,240
+well, she's still pretty upset.
+
+725
+00:37:38,390 --> 00:37:40,490
+again, i know i crossed the line,
+
+726
+00:37:40,650 --> 00:37:42,110
+and i am so sorry.
+
+727
+00:37:42,270 --> 00:37:43,290
+you know what? let's not get into this.
+
+728
+00:37:43,450 --> 00:37:45,270
+i'm just gonna get angry all over again.
+
+729
+00:37:45,420 --> 00:37:49,260
+tom,if you had been there and heard what she said...
+
+730
+00:37:49,410 --> 00:37:53,670
+it doesn't matter. you hit her.
+
+731
+00:37:53,940 --> 00:37:56,000
+honey, she's just a little girl.
+
+732
+00:37:56,160 --> 00:38:00,760
+and now thanks to you, she's a frightened little girl.
+
+733
+00:38:00,920 --> 00:38:02,460
+sorry to bother you, dr. dolan,
+
+734
+00:38:02,640 --> 00:38:05,820
+but you said i could call anytime.
+
+735
+00:38:06,180 --> 00:38:08,110
+my mom...
+
+736
+00:38:08,750 --> 00:38:11,020
+she hit me.
+
+737
+00:38:11,570 --> 00:38:13,820
+no,it's not the first time.
+
+738
+00:38:13,980 --> 00:38:14,960
+i was afraid to tell you
+
+739
+00:38:15,130 --> 00:38:17,610
+'cause i knew what she would do if she found out.
+
+740
+00:38:17,790 --> 00:38:19,230
+please help me.
+
+741
+00:38:19,380 --> 00:38:22,050
+i don't feel safe here.
+
+742
+00:38:22,330 --> 00:38:25,960
+i have to go. she's coming.
+
+743
+00:38:38,390 --> 00:38:42,690
+uh,sorry about the mess. the maid took the week off.
+
+744
+00:38:43,170 --> 00:38:45,950
+you said you wanted to talk to me and...
+
+745
+00:38:46,400 --> 00:38:48,250
+tell me things about mom?
+
+746
+00:38:48,410 --> 00:38:51,500
+you know what,kiddo? i-i had kind of a bad day yesterday.
+
+747
+00:38:51,660 --> 00:38:55,210
+i sat around here drinking, feeling sorry for myself.
+
+748
+00:38:57,100 --> 00:38:59,060
+and... and then i called you.
+
+749
+00:38:59,220 --> 00:39:00,110
+that's okay.
+
+750
+00:39:00,280 --> 00:39:02,120
+if you're feeling sad or whatever,
+
+751
+00:39:02,300 --> 00:39:04,390
+you should always call me.
+
+752
+00:39:04,550 --> 00:39:06,860
+<i>none of this is your fault. i hope you know that.</i>
+
+753
+00:39:07,020 --> 00:39:08,650
+none of what?
+
+754
+00:39:08,810 --> 00:39:12,640
+i tried so hard to let the past just be the past.
+
+755
+00:39:12,800 --> 00:39:13,990
+i didn't- i didn't wanna bring up
+
+756
+00:39:14,150 --> 00:39:16,570
+who did what to who or why.
+
+757
+00:39:16,730 --> 00:39:17,830
+what did mom say to you?
+
+758
+00:39:18,000 --> 00:39:20,790
+and it turns out i've been kidding myself all this time.
+
+759
+00:39:20,950 --> 00:39:22,510
+this family that i've been fighting for-
+
+760
+00:39:22,660 --> 00:39:25,680
+it just- it doesn't even...
+
+761
+00:39:26,930 --> 00:39:28,680
+exist.
+
+762
+00:39:28,840 --> 00:39:30,270
+we don't need her.
+
+763
+00:39:30,450 --> 00:39:32,250
+i'm fine with just you and me.
+
+764
+00:39:32,410 --> 00:39:34,940
+i'm happy now.
+
+765
+00:39:37,810 --> 00:39:40,550
+ow! dad,you're hurting me.
+
+766
+00:39:42,310 --> 00:39:44,750
+dad,what's the matter?
+
+767
+00:39:47,880 --> 00:39:50,270
+you have to go.
+
+768
+00:39:50,900 --> 00:39:52,660
+what's wrong? did i do something?
+
+769
+00:39:52,820 --> 00:39:56,930
+<i>get outta here! now!</i>
+
+770
+00:40:11,320 --> 00:40:15,300
+ellie? brunch is almost ready!
+
+771
+00:40:15,460 --> 00:40:17,150
+this is gonna be so hard.
+
+772
+00:40:17,320 --> 00:40:18,800
+you can't think of her as your friend.
+
+773
+00:40:18,960 --> 00:40:19,930
+think of her as a drug dealer
+
+774
+00:40:20,090 --> 00:40:23,890
+who could've gotten us into a lot of trouble. i'll try.
+
+775
+00:40:27,450 --> 00:40:29,380
+oh! shoot.
+
+776
+00:40:29,560 --> 00:40:32,340
+i wanted to surprise you. what's this?
+
+777
+00:40:32,490 --> 00:40:35,020
+well,you know, it's mother's day,and...
+
+778
+00:40:35,770 --> 00:40:38,580
+i have kind of a crappy relationship with my mom,
+
+779
+00:40:38,740 --> 00:40:40,230
+so...
+
+780
+00:40:40,390 --> 00:40:42,370
+this is my way of saying thanks for being nicer to me
+
+781
+00:40:42,530 --> 00:40:45,130
+than she ever was.
+
+782
+00:40:45,920 --> 00:40:47,720
+oh.
+
+783
+00:40:48,840 --> 00:40:51,890
+oh,honey!
+
+784
+00:40:53,110 --> 00:40:55,490
+i'm glad i didn't get you the chocolates.
+
+785
+00:40:57,830 --> 00:41:01,480
+no,travers,no,i decided spending mother's day with you
+
+786
+00:41:01,640 --> 00:41:02,690
+is more important
+
+787
+00:41:02,850 --> 00:41:07,130
+than spending time showing people stupid houses.
+
+788
+00:41:07,590 --> 00:41:10,550
+oh,love you,too,sweetheart.
+
+789
+00:41:10,850 --> 00:41:12,800
+actually,i think mommy's gonna be spending
+
+790
+00:41:12,960 --> 00:41:15,260
+a lot more time with you from now on.
+
+791
+00:41:15,420 --> 00:41:18,150
+but we'll talk about that when i get there,okay?
+
+792
+00:41:18,300 --> 00:41:21,730
+i love you,baby. i'll see you soon.
+
+793
+00:41:28,900 --> 00:41:33,230
+<i>it happens the second sunday of every may.</i>
+
+794
+00:41:34,010 --> 00:41:36,030
+<i>we celebrate the women</i>
+
+795
+00:41:36,190 --> 00:41:37,830
+<i>who give us life...</i>
+
+796
+00:41:38,000 --> 00:41:40,530
+<i>and so much more.</i>
+
+797
+00:41:42,480 --> 00:41:46,500
+<i>the ones who protect us at all costs...</i>
+
+798
+00:41:48,970 --> 00:41:54,090
+<i>who have the courage to fight those who would do us harm...</i>
+
+799
+00:41:56,070 --> 00:42:00,430
+<i>who put our happiness ahead of their own.</i>
+
+800
+00:42:01,950 --> 00:42:03,590
+<i>but mostly...</i>
+
+801
+00:42:03,750 --> 00:42:06,490
+<i>we celebrate a mother's love,</i>
+
+802
+00:42:07,150 --> 00:42:10,840
+<i>which is constant,eternal...</i>
+
+803
+00:42:11,000 --> 00:42:14,760
+<i>and there from the very beginning.</i>
+
+804
+00:42:14,910 --> 00:42:16,840
+<font color="#4096d1">ææàãðü×öä»×é
+ -==http://www.ragbear.com==-
+ »♪ó­¼óèë</font>
+
