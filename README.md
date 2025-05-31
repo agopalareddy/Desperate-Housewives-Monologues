@@ -6,7 +6,7 @@ This repository contains extracted monologues and narrator dialogue from the TV 
 - `combine_episodes_text.py`: Script to combine all episode text files into a single file, with clear season/episode headers.
 - `convert_srt_to_text.py`: Script to convert `.srt` subtitle files to plain text.
 - `data/`: Contains all processed subtitle and text data, organized by season and episode.
-- `Season 1.txt`, `Season 2.txt`, ...: Extracted monologues for each season.
+- `Season 1.md`, `Season 2.md`, ...: Extracted monologues for each season.
 
 ## Usefulness of These Monologues
 
